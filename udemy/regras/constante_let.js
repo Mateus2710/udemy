@@ -67,4 +67,7 @@
     de uma constante a uma variavel
     e de uma constante a outra constante
     e de uma variavel a outra variavel
+
+    String = text
+    Number = Número
 */
