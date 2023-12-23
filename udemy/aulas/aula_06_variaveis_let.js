@@ -2,7 +2,7 @@
 //variavel inicializada
 
 /*
-    variaveis são onjetos onde você guarda valores dentro dele
+    variaveis são objetos onde você guarda valores dentro dele
     cada variavel pode suportar apenas um valor por vez 
     e pode ser utilizado a qualquer momento
 */
